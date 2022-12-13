@@ -1,0 +1,32 @@
+{
+  "id": "2c93808484ed6a6801850921aad21533",
+  "payer_id": 1087850021,
+  "payer_email": "",
+  "back_url": "https://google.com.ar",
+  "collector_id": 1246905233,
+  "application_id": 8766781246804674,
+  "status": "pending",
+  "reason": "Suscripción de ejemplo",
+  "date_created": "2022-12-12T21:37:59.504-04:00",
+  "last_modified": "2022-12-12T21:37:59.506-04:00",
+  "init_point": "https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_id=2c93808484ed6a6801850921aad21533",
+  "auto_recurring": {
+    "frequency": 1,
+    "frequency_type": "months",
+    "transaction_amount": 10,
+    "currency_id": "ARS",
+    "free_trial": null
+  },
+  "summarized": {
+    "quotas": null,
+    "charged_quantity": null,
+    "pending_charge_quantity": null,
+    "charged_amount": null,
+    "pending_charge_amount": null,
+    "semaphore": null,
+    "last_charged_date": null,
+    "last_charged_amount": null
+  },
+  "payment_method_id": null,
+  "first_invoice_offset": null
+}
